@@ -540,7 +540,7 @@ pip install -r requirements.txt
 </h2>
 </div>
 
-‎## Follow Me :
+# Follow Me :
 ‎
 ‎[![Messenger](https://img.shields.io/badge/Messengers-blue?style=for-the-badge&logo=messenger)](https://fb.me/shopee.bjm)
 ‎<a href="https://tiktok.com/@shopee.bjm"><img title="TikTok" src="https://img.shields.io/badge/-black?style=for-the-badge&logo=Tiktok"></a>
